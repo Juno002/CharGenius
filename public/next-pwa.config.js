@@ -1,3 +1,5 @@
+import { default as defaultCaching } from 'next-pwa/cache.js';
+export default defaultCaching;
 module.exports = {
   runtimeCaching: [
     {
