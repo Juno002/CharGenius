@@ -1,6 +1,6 @@
 import withPWA from 'next-pwa';
 import type {NextConfig} from 'next';
-import runtimeCaching from './config/next-pwa.config.js';
+import runtimeCaching from './next-pwa.config.js';
 
 const nextConfig: NextConfig = {
   /* config options here */
