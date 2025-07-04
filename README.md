@@ -98,3 +98,5 @@ La v2 de CharGenius abandona la IA integrada en favor de un sistema de proveedor
 Muchas de las funcionalidades avanzadas de CharGenius, como el sistema de "Personas", las estrategias de activación de escenas grupales, la memoria semántica y el manejo de fondos de pantalla, fueron inspiradas por la brillante arquitectura y las ideas del proyecto open source **SillyTavern**.
 
 Agradecemos profundamente a sus desarrolladores y a su comunidad por el increíble trabajo que han compartido. Si bien el código de CharGenius es una implementación original y adaptada a nuestra propia tecnología, la inspiración conceptual ha sido invaluable para la evolución de esta aplicación.
+#   C h a r G e n i u s  
+ 
